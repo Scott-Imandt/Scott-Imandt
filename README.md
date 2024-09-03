@@ -19,7 +19,7 @@
 </ul>
 <h2>✒️ Personal Website</h2>
 <ul>
-<li>Check out my personal website built with react and a custom JSON loading for more about me and my projects at <a target="_blank" href="https://www.scottimandt.com/">www.ScottImandt.com</a></li></ul>
+<li>Check out my website built with react and a custom JSON loading for more about me and my projects at <a target="_blank" href="https://www.scottimandt.com/">www.ScottImandt.com</a></li></ul>
 <h2>🔗 Where to find me</h2>
 <ul>
 <p><a target="_blank" href="https://www.linkedin.com/in/scott-imandt/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
