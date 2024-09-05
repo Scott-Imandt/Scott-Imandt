@@ -1,6 +1,21 @@
 <h1>Hey! 👋 I'm Scott, a recent computer science graduate from Stony Brook University. Excited about building amazing things with code! Let's connect!</h1>
 <p>I'm passionate about creating innovative solutions that benefit myself and others. My GitHub repository showcases a diverse range of projects I've developed over the years, from web applications and embedded systems to game development and scripting.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+
+<h2>✒️ Personal Website</h2>
+<ul>
+<li>Check out my website built with react and a custom JSON loading for more about me and my projects at <a target="_blank" href="https://www.scottimandt.com/">www.ScottImandt.com</a></li>
+</ul>
+
+<h2>📈 Codeing Stats</h2>
+
+| Github  | LeetCode |
+| :-------------: |:-------------:|
+| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Scott-Imandt&" alt="Scott-Imandt" /></p>     |  ![LeetCode Stats](https://leetcard.jacoblin.cool/Scott_Imandt?theme=light&font=M%20PLUS%201)    |
+|<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Scott-Imandt&show_icons=true&locale=en&layout=compact" alt="Scott-Imandt" /></p>| |
+
+
+<details>
+<summary><h2>🚀 Languages and Tools I Use</h2> </summary>
 <ul>
 
 |||
@@ -15,23 +30,16 @@
 |Software|<p><a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="22" height="22" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="22" height="22" /></a><a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="22" height="22" /></a></p>|
 |Game Engines|<p><a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="22" height="22" /></a><a target="_blank" href="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="22" height="22" /></a></p>|
 |Other|<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="22" height="22" /></a><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22" /></a><a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="22" height="22" /></a></p>|
-
 </ul>
-<h2>✒️ Personal Website</h2>
-<ul>
-<li>Check out my website built with react and a custom JSON loading for more about me and my projects at <a target="_blank" href="https://www.scottimandt.com/">www.ScottImandt.com</a></li></ul>
-<h2>🔗 Where to find me</h2>
+</details>
+
+
+<details>
+<summary><h2>🔗 Where to find me</h2></summary>
 <ul>
 <p><a target="_blank" href="https://www.linkedin.com/in/scott-imandt/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p>
 <a href='mailto: ScottImandt@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=Gmail&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF'/></a>
 </p>
 </ul>
-<h2>📈 Github Stats</h2>
-
-| Steaks  | Languages |
-| ------------- |:-------------:|
-| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Scott-Imandt&" alt="Scott-Imandt" /></p>      | <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Scott-Imandt&show_icons=true&locale=en&layout=compact" alt="Scott-Imandt" /></p>     |
-
-
-
+</details>
