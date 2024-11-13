@@ -11,8 +11,7 @@
 | Github  | LeetCode |
 | :-------------: |:-------------:|
 | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Scott-Imandt&" alt="Scott-Imandt" /></p>     |  ![LeetCode Stats](https://leetcard.jacoblin.cool/Scott_Imandt?theme=light&font=M%20PLUS%201)    |
-|<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Scott-Imandt&show_icons=true&locale=en&layout=compact" alt="Scott-Imandt" /></p>| <img src="https://www.hackerrankapi.scottimandt.com/?username=luigiandscott&badge=python" alt="HackerRank Badge - Python" />
- <object type="image/svg+xml" align="center" data="https://www.hackerrankapi.scottimandt.com/?username=luigiandscott&badge=sql">Your browser does not support SVG (HackerRank-Badge)</object> |
+|<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Scott-Imandt&show_icons=true&locale=en&layout=compact" alt="Scott-Imandt" /></p>| <p> <img src="https://www.hackerrankapi.scottimandt.com/?username=luigiandscott&badge=python" alt="HackerRank Badge - Python" /> <img src="https://www.hackerrankapi.scottimandt.com/?username=luigiandscott&badge=sql" alt="HackerRank Badge - SQL" /> </p>|
 
 
 <details>
